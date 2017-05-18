@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264071397577",
+    "firebase_url": "https://leasingmanager-9c58b.firebaseio.com",
+    "project_id": "leasingmanager-9c58b",
+    "storage_bucket": "leasingmanager-9c58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264071397577:android:e0008d768e954e0b",
+        "android_client_info": {
+          "package_name": "com.example.arind.leasingmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264071397577-gspd7sop8epafbrnr30909iao27d70h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arind.leasingmanager",
+            "certificate_hash": "303a8550db36cbe4269a875b8c0eeecdbc9fa6d2"
+          }
+        },
+        {
+          "client_id": "264071397577-3m4f3g220efs5o4bm0et3rgrbcone572.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6pPRuy15UXJrA_3tkqNBhv3F3BPvkM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264071397577-3m4f3g220efs5o4bm0et3rgrbcone572.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

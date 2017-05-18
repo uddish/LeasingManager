@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LeasingManager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="address">
+        <item>449 Palo Verde Road, Gainesville, FL</item>
+        <item>6731 Thompson Street, Gainesville, FL</item>
+        <item>8771 Thomas Boulevard, Orlando, FL</item>
+        <item>1234 Verano Place, Orlando, FL</item>
+    </string-array>
+</resources>
