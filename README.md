@@ -1,4 +1,2 @@
 # LeasingManager
-Leading Manager
-Leading 
-Manager.
+Leasing Manager.
